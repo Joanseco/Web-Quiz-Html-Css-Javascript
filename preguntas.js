@@ -1,57 +1,57 @@
 let questions = [
     {
         numb: 1,
-        question : "What does HTML stand for?",
-        answer: "C. Hyper Text Markup Language",
+        question : "¿Qué significa HTML?",
+        answer: "C. Lenguaje de marcado de hipertexto",
         options:[
-            "A. Hyper Text Multi Language",
-            "B. Hyper Text Multiple Language",
-            "C. Hyper Text Markup Language",
-            "D. Home Text Multi Language"
+            "A. Hipertexto multilenguaje",
+            "B. Lenguaje Múltiple de Hipertexto",
+            "C. Lenguaje de marcado de hipertexto",
+            "D. Texto de inicio en varios idiomas"
         ]
     },
     {
         numb: 2,
-        question : "What does CSS stand for?",
-        answer: "A. Cascading Style Sheet",
+        question : "¿Qué significa CSS?",
+        answer: "A. Hoja de estilo en cascada",
         options:[
-            "A. Cascading Style Sheet",
-            "B. Cute Style Sheet",
-            "C. Computer Style Sheet",
-            "D. Codehal Style Sheet"
+            "A. Hoja de estilo en cascada",
+            "B. Hojas de lógica de cascada",
+            "C. Hoja de estilo de computadora",
+            "D. Hojas de procesamiento de datos"
         ]
     },
     {
         numb: 3,
-        question : "What does PHP stand for?",
-        answer: "A. Hypertext Preprocessor",
+        question : "¿Qué significa PHP?",
+        answer: "A. Preprocesador de hipertexto",
         options:[
-            "A. Hypertext Preprocessor",
-            "B. Hometext Preprocessor",
-            "C. Hypertext Preprogramming",
-            "D. Programming Hypertext Preprocessor"
+            "A. Preprocesador de hipertexto",
+            "B. Preprocesador de texto de inicio",
+            "C. Preprogramación de Hipertexto",
+            "D. Programación del preprocesador de hipertexto"
         ]
     },
     {
         numb: 4,
-        question : "What does SQL stand for?",
-        answer: "D. Structured Query Language",
+        question : "¿Qué significa SQL?",
+        answer: "D. Lenguaje de consulta estructurado",
         options:[
-            "A. Strenght Query Language",
-            "B. Stylesheet Query Language",
-            "C. Science Question Language",
-            "D. Structured Query Language"
+            "A. Lenguaje de consulta de fuerza",
+            "B. Lenguaje de consulta de hoja de estilo",
+            "C. Lenguaje de preguntas científicas",
+            "D. Lenguaje de consulta estructurado"
         ]
     },
     {
         numb: 5,
-        question : "What does XML stand for?",
-        answer: "D. Extensible Markup Language",
+        question : "¿Qué significa XML?",
+        answer: "D. Lenguaje de marcado extensible",
         options:[
-            "A. Excellent Multiple Language",
-            "B. Explore Multiple Language",
-            "C. Extra Markup Language",
-            "D. Extensible Markup Language"
+            "A. Excelente lenguaje múltiple",
+            "B. Explorador de varios idiomas",
+            "C. Lenguaje de marcado adicional",
+            "D. Lenguaje de marcado extensible"
         ]
     }
 ];

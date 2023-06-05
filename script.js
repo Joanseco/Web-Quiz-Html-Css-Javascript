@@ -142,7 +142,7 @@ function showResultBox(){
     resultBox.classList.add('active');
 
     const scoreText = document.querySelector('.score-text');
-    scoreText.textContent = `Your Score ${userScore} out of ${questions.length}`;
+    scoreText.textContent = `Tu puntuacion fue de ${userScore} sobre ${questions.length}`;
 
     const circularProgress = document.querySelector('.circular-progress');
     const progressValue = document.querySelector('.progress-value');
@@ -155,7 +155,7 @@ function showResultBox(){
         progressStartValue++;
 
         progressValue.textContent = `${progressStartValue}%`;
-        circularProgress.style.background = `conic-gradient(#c40094 ${progressStartValue * 3.6}deg, rgba(255, 255, 255, .1) 0deg)`;
+        circularProgress.style.background = `conic-gradient(#0203e2 ${progressStartValue * 3.6}deg, rgba(255, 255, 255, .1) 0deg)`;
 
         if(progressStartValue==progressEndValue){
             clearInterval(progress);
